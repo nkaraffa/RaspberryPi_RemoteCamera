@@ -1,4 +1,4 @@
-# <h1 align="center">Raspberry Pi RasberryPi Remote Camera Project</h1>
+# <h1 align="center">RasberryPi Remote Camera Project</h1>
 
 
 ______
