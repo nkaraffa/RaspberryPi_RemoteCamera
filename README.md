@@ -1,6 +1,5 @@
 # <h1 align="center">Raspberry Pi RasberryPi Remote Camera Project</h1>
 
-Personal Project to install RasberryPi remote camera with Internet Access
 
 ______
 The purpose of this project is to create and install a RasberryPi remote camera system with internet capability.
