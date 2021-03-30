@@ -1,4 +1,4 @@
-# <h1 align="center">Raspberry Pi Magic Mirror Project</h1>
+# <h1 align="center">Raspberry Pi RasberryPi Remote Camera Project</h1>
 
 Personal Project to install RasberryPi remote camera with Internet Access
 
