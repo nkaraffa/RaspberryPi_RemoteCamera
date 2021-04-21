@@ -27,3 +27,8 @@ Materials Needed:
 - RasberryPi 4 + Case
 - Raspberry Pi 4 Camera System
 - Shelving Unit
+
+________
+
+Resources:
+- https://makezine.com/projects/beginner-project-a-remote-viewing-camera-with-raspberry-pi/
